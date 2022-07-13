@@ -348,7 +348,7 @@ header .nav{
       margin-top: 80px;
 }
 .EducationSkills-8  .website-link{
-      margin-top: 80px;
+      margin-top: -80px;
 }
 .EducationSkills-8  .ES-screenshot: hover{
        height: 120%;
@@ -417,6 +417,17 @@ header .nav{
       font-weight: 700;
 }
 .get-in-touch  .get-in-touch-div  .email{
+      color: #A3395B;
+      padding-bottom: 2px;
+      padding-top: 2px;
+      border-bottom-style: dotted;
+      width: 210px;
+      margin: 0 auto;
+      border-bottom-color: #A3395B;
+      cursor: pointer;
+      font-size: 20px;
+}
+.get-in-touch  .get-in-touch-div  .website-link{
       color: #A3395B;
       padding-bottom: 2px;
       padding-top: 2px;
